@@ -1,4 +1,4 @@
-# PricingPage
+# Pricing Page
 
 ## Setting up
 Ensure you have npm installed on your PC.
